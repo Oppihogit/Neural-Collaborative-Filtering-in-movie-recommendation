@@ -1,4 +1,5 @@
 # Neural-Collaborative-Filtering-in-movie-recommendation
+This report will focus on the movie recommendation domain, applying deep learning techniques to replace traditional matrix inner product summation in collaborative filtering and improve the learning ability of the model. 
 [paper](report.pdf)
 
 ## INTRODUCTION
